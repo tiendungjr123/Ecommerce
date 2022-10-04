@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Ecommerce/static/css/main.eccc5c9e.css",
-    "main.js": "/Ecommerce/static/js/main.0f0cee2e.js",
+    "main.js": "/Ecommerce/static/js/main.ad18fdb0.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/Ecommerce/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/bg.jpg": "/Ecommerce/static/media/bg.9375d85a2a5d9e7a08ae.jpg",
     "static/media/fontawesome-webfont.eot": "/Ecommerce/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
@@ -16,10 +16,10 @@
     "static/media/notification.ttf?s3g3t9": "/Ecommerce/static/media/notification.c5d9251ea82e42f75381.ttf",
     "index.html": "/Ecommerce/index.html",
     "main.eccc5c9e.css.map": "/Ecommerce/static/css/main.eccc5c9e.css.map",
-    "main.0f0cee2e.js.map": "/Ecommerce/static/js/main.0f0cee2e.js.map"
+    "main.ad18fdb0.js.map": "/Ecommerce/static/js/main.ad18fdb0.js.map"
   },
   "entrypoints": [
     "static/css/main.eccc5c9e.css",
-    "static/js/main.0f0cee2e.js"
+    "static/js/main.ad18fdb0.js"
   ]
 }
