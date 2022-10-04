@@ -7,14 +7,14 @@ import '../node_modules/bootstrap/dist/js/bootstrap.min.js';
 import '../node_modules/font-awesome/css/font-awesome.min.css';
 import 'react-loading-skeleton/dist/skeleton.css'
 import 'react-notifications/lib/notifications.css';
-import { HashRouter } from 'react-router-dom';
+import { BrowserRouter,HashRouter as Route } from 'react-router-dom';
 import store from './redux/store';
 import { Provider } from 'react-redux';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-   <HashRouter>
+   <Route>
       <Provider store={store}>
          <App />
       </Provider>
-   </HashRouter>
+   </Route>
 );
